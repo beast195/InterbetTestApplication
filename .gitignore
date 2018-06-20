@@ -1,0 +1,14 @@
+packages/
+InterbetTestAppplicationRepository/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+InterbetTestAppplicationRepository/obj/
+InterbetTestAppplication.WinForms/obj/
+InterbetTestAppplicationRepository/bin/
+InterbetTestAppplication.WinForms/bin/
+InterbetTestAppplication.Common/obj/
+InterbetTestAppplication.Common/bin/
+InterbetTestAppplication.ApplicationLogic/obj/
+InterbetTestAppplication.ApplicationLogic/bin/
+InterbetTestAppplication.API/obj/
+InterbetTestAppplication.API/bin/
+InterbetTestApplication.Mvc/bin/
+InterbetTestApplication.Mvc/obj/

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CorporatePayments>
+<UniqueInstanceID>6be01f30-3571-4db2-8f74-352b6878f5b3</UniqueInstanceID>
+<EffectiveDate>20180211</EffectiveDate>
+<TransactionCode>687</TransactionCode>
+<TransactionAmount>20.00</TransactionAmount>
+<TransactionDate>20180211</TransactionDate>
+<TransactionTime>75922</TransactionTime>
+<ChequeNumber/>
+<DrCrIndicator>CR</DrCrIndicator>
+<BankName>STD</BankName>
+<BranchCode>051001</BranchCode>
+<ReferenceNumber>Test1</ReferenceNumber>
+<AccountNumber>70370516</AccountNumber>
+<Identifier>SBSA</Identifier>
+</CorporatePayments>

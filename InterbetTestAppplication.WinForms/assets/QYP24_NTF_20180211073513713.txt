@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CorporatePayments>
+<UniqueInstanceID>ebd7061f-1312-4045-ab18-3997be538813</UniqueInstanceID>
+<EffectiveDate>20180211</EffectiveDate>
+<TransactionCode>1394</TransactionCode>
+<TransactionAmount>40.00</TransactionAmount>
+<TransactionDate>20180211</TransactionDate>
+<TransactionTime>73459</TransactionTime>
+<ChequeNumber/>
+<DrCrIndicator>DR</DrCrIndicator>
+<BankName>STD</BankName>
+<BranchCode>051001</BranchCode>
+<ReferenceNumber>ACC 070370516 DEP BCH 0302</ReferenceNumber>
+<AccountNumber>70370516</AccountNumber>
+<Identifier>SBSA</Identifier>
+</CorporatePayments>
